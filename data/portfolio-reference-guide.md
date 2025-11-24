@@ -1,6 +1,6 @@
 # Portfolio Reference Guide - Local Chiba Builders
 
-Visual reference guide for reviewing completed projects and design aesthetics of 10 local and regional house builders in the Kashiwa/Nagareyama/Chiba area.
+Visual reference guide for reviewing completed projects and design aesthetics of 11 local and regional house builders in the Kashiwa/Nagareyama/Chiba area.
 
 ## How to Use This Guide
 
@@ -31,6 +31,7 @@ This document provides direct links to portfolio galleries and specific project 
 | 石井工業 | [Works](https://ishiikogyo.jp/works/) | Traditional, cedar | Sambu cedar, board-stacking, wood stoves | Excellent |
 | 木ごこち工務店 | [Works](https://kigokochi.co.jp/works/) | Natural materials variety | 4 product lines, plaster walls standard | Excellent |
 | ちばの木建築舎 | [Gallery](https://tibanoki.com/gallery/) | Japanese cedar | Natural aging philosophy, local wood | Limited |
+| ヤマト住建 | [Album](https://www.yamatojk.co.jp/album) | Energy efficiency, rooftop gardens | Grade 7 insulation, ZEH 6-star, atriums | Good |
 | 小川工務店 | [Cases](https://www.ogawa-bco.co.jp/case/renovation/) | Renovations, wood decks | Multi-generational, garden connection | Moderate |
 | 広島建設 | [Cases](https://www.hirosima.co.jp/house/case) | Large spaces | Spacious LDK (30+ tatami), modern | Good |
 | R+house | [Gallery](https://www.r-plus-house.com/gallery) / [Chiba](https://www.r-plus-house.com/chiba/gallery/single-story) | Variety, architect-designed | 12,000+ projects, multiple styles | Excellent |
@@ -112,17 +113,25 @@ This document provides direct links to portfolio galleries and specific project 
 
 **Top Picks:**
 
-1. **仁科建設 (Nishina Kensetsu)**
+1. **ヤマト住建 (Yamato Juken)**
+   - Grade 7 insulation (最高水準「断熱等級7」) - highest level achievable
+   - UA値 0.22-0.26 (best-in-class heat loss coefficient)
+   - C値 0.5以下 (excellent airtightness standard)
+   - ZEH 6-star certified builder
+   - Energy Conservation Grand Prize 2021 winner
+   - [Portfolio](https://www.yamatojk.co.jp/album) shows multiple ZEH examples with solar integration
+
+2. **仁科建設 (Nishina Kensetsu)**
    - UA値 0.3W/㎡K以下 (exceptional insulation)
    - C値 0.3㎠/㎡以下 (superior airtightness)
    - High-performance examples throughout gallery
 
-2. **水戸工務店 (Mito Koumuten)**
+3. **水戸工務店 (Mito Koumuten)**
    - [涼温な家 (Comfortable Temperature Home) examples](https://mitok.jp/construction_list/construction/)
    - Focus on year-round comfort through advanced systems
    - High insulation and airtightness standard
 
-3. **太陽ハウス (Taiyo House)**
+4. **太陽ハウス (Taiyo House)**
    - ZEH certified builder with proven examples
    - Solar integration visible in multiple projects
    - High-performance construction across portfolio
@@ -449,7 +458,72 @@ This document provides direct links to portfolio galleries and specific project 
 
 ---
 
-### 8. 小川工務店 (Ogawa Koumuten)
+### 8. ヤマト住建 (Yamato Juken)
+
+**Portfolio Page:** https://www.yamatojk.co.jp/album
+
+**Design Range:** National builder specializing in ultra-high energy efficiency homes (Grade 7 insulation, UA 0.22-0.26) with signature rooftop gardens. 14-year consecutive market leader in 屋上庭園 (rooftop garden) design. Wide range from contemporary modern to Japanese-modern, single to multi-story. Advanced systems include whole-house HVAC (YUCACO), solar + battery storage. Focus on "spaciousness," "high performance," and "family health."
+
+**Notable Examples:**
+
+#### Example 1: Rooftop Garden Residence (Otsu, Shiga) - 屋上とダウンフロアのある家
+- **Exterior:** Modern multi-story with rooftop garden space
+- **Interior:** Gathering spaces with skip-floor design; rooftop accessible from interior
+- **Special Features:**
+  - Rooftop terrace (屋上庭園) - company specialty
+  - Down-floor/sunken areas creating spatial variety
+  - Family gathering focus
+  - Maximizes usable outdoor space on urban lot
+- **Link:** https://www.yamatojk.co.jp/album/post-1901366
+
+#### Example 2: Architecturally Refined Residence with Central Courtyard (Himeji, Hyogo) - 建築家とつくる洗練された住まい
+- **Exterior:** Contemporary design with clean lines
+- **Interior:** Central courtyard bringing light inside; strategic storage solutions; soaring ceiling spaces
+- **Special Features:**
+  - Internal courtyard (中庭) for natural light and privacy
+  - Atrium/吹き抜け creating openness
+  - Architect-quality design refinement
+  - Storage optimization throughout
+- **Link:** https://www.yamatojk.co.jp/album/post-1901364
+
+#### Example 3: Modern Tile Single-Story with Natural Light (Kakogawa, Hyogo) - 現代的なタイル張りの平屋
+- **Exterior:** Single-story hotel-inspired design with contemporary tile finish
+- **Interior:** Warm lighting throughout; efficient workflow planning; open modern spaces
+- **Special Features:**
+  - ZEH certified (zero energy home)
+  - Single-story design (平屋)
+  - Hotel-like aesthetic quality
+  - Natural light optimization
+  - High insulation/airtightness (company standard)
+- **Link:** https://www.yamatojk.co.jp/album/post-1901363
+
+#### Example 4: Black Residence with Garage and Atrium (Ama) - ガレージと吹き抜けが彩るブラックレジデンス
+- **Exterior:** Modern black facade with integrated garage
+- **Interior:** Soaring ceilings with 吹き抜け (atrium); efficient home workflow design
+- **Special Features:**
+  - Built-in garage integration
+  - Dramatic ceiling heights and skylights
+  - Modern hotel-like interior aesthetic
+  - Efficient living patterns design
+- **Link:** https://www.yamatojk.co.jp/album/post-1901368
+
+#### Example 5: Solar-Powered Climate-Controlled Home (Utsunomiya, Tochigi) - 太陽光で快適な気候を実現
+- **Exterior:** Contemporary with visible solar panel array
+- **Interior:** Emphasis on storage solutions; high-performance building envelope
+- **Special Features:**
+  - Solar power generation prominently featured
+  - High insulation and airtightness (Grade 7 capable)
+  - Storage-optimized design
+  - ZEH/energy efficiency showcase
+- **Link:** https://www.yamatojk.co.jp/album/post-1901367
+
+**What to Look For:** Rooftop gardens transforming unused roof into outdoor living, 吹き抜け (atriums/skylights) for natural light, ZEH/solar integration, whole-house climate control evidence, Grade 7 energy efficiency features, contemporary clean aesthetics, internal courtyards, single-story modern designs
+
+**Kashiwa Showroom:** 千葉県柏市十余二403-1 (20 min walk from Kashiwa-no-ha Campus Station) - Visit to see local examples and full specifications
+
+---
+
+### 9. 小川工務店 (Ogawa Koumuten)
 
 **Portfolio Page:** https://www.ogawa-bco.co.jp/case/renovation/
 
@@ -491,7 +565,7 @@ This document provides direct links to portfolio galleries and specific project 
 
 ---
 
-### 9. 広島建設/セナリオハウス (Hirosima Kensetsu / Scenario House)
+### 10. 広島建設/セナリオハウス (Hirosima Kensetsu / Scenario House)
 
 **Portfolio Page:** https://www.hirosima.co.jp/house/case
 
@@ -533,7 +607,7 @@ This document provides direct links to portfolio galleries and specific project 
 
 ---
 
-### 10. R+house
+### 11. R+house
 
 **Portfolio Pages:**
 - National: https://www.r-plus-house.com/gallery

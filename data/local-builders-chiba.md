@@ -2,7 +2,7 @@
 
 Comprehensive evaluation of smaller and mid-tier house builders (工務店 and regional ハウスメーカー) in the Kashiwa/Nagareyama/Chiba area offering personalized service, natural materials focus, and cost-effective alternatives to major house makers.
 
-**📸 [Portfolio Reference Guide](portfolio-reference-guide.md)** - Visual examples and gallery links for all 10 builders
+**📸 [Portfolio Reference Guide](portfolio-reference-guide.md)** - Visual examples and gallery links for all 11 builders
 
 ## Target Area Focus
 
@@ -16,6 +16,7 @@ Comprehensive evaluation of smaller and mid-tier house builders (工務店 and r
 |---------|----------|-------------------|-------------------|---------------|-------------|
 | 仁科建設 | Chiba City | ★★★★★ | ★★★★★ | Mid | 9/10 |
 | 助川工務店 | Kashiwa/Abiko | ★★★★★ | ★★★★☆ | Mid | 8.5/10 |
+| ヤマト住建 | Kashiwa (National, 53 locations) | ★★★☆☆ | ★★★★★ | Mid-High | 8.5/10 |
 | 太陽ハウス | Matsudo/Kashiwa/Nagareyama | ★★★★☆ | ★★★★★ | Mid-High | 8/10 |
 | 水戸工務店 | Kashiwa | ★★★★★ | ★★★★☆ | Mid | 8/10 |
 | 石井工業 | Sammu City | ★★★★★ | ★★★☆☆ | Unknown | 8.5/10 |
@@ -644,9 +645,151 @@ Comprehensive evaluation of smaller and mid-tier house builders (工務店 and r
 
 ---
 
+### 8. ヤマト住建 (Yamato Juken)
+
+[🔗 Website](https://www.yamatojk.co.jp/)
+
+**Overall Tenet Match: VERY GOOD (8.5/10)**
+
+#### Company Overview
+
+**Full Name:** ヤマト住建株式会社 (Yamato Juken K.K.)
+**Founded:** 1990 (35 years of experience)
+**Headquarters:** Kobe City, Hyogo Prefecture
+**Scale:** National builder with 53 locations across Japan
+**Kashiwa Showroom:** 千葉県柏市十余二403-1 (20 min walk from Kashiwa-no-ha Campus Station)
+**Service Area:** Kashiwa, Noda, Nagareyama, Matsudo cities in Chiba
+**Specialty:** Ultra-high energy efficiency homes, rooftop gardens
+**Awards:** ZEH 6-star builder, Energy Conservation Grand Prize 2021, Tokyo Eco-Builder (3 consecutive years)
+
+#### Key Features
+
+**Best-in-Class Energy Efficiency:**
+- **UA値 (Heat Loss Coefficient):** 0.22-0.26 (flagship models achieve 0.25)
+- **C値 (Airtightness):** 0.5 or below as standard
+- **Insulation Rating:** Grade 7 (最高水準「断熱等級7」) - highest level
+- **ZEH 6-Star Certification** - Official zero-energy home builder
+- **LCCM Standards** - Life Cycle Carbon Minus (net-negative carbon footprint)
+
+**Rooftop Garden Market Leader:**
+- **14 consecutive years** as rooftop garden market leader in Japan
+- Extensive experience with 屋上庭園 (rooftop garden) design
+- Transforms unused roof space into outdoor living areas
+- Perfect for maximizing garden space on smaller urban lots
+
+**Advanced Systems:**
+- **YUCACO System** - Whole-house HVAC (全館空調) manages entire home climate with single unit
+- **Evoltz Seismic Damping** - 制振装置 for enhanced earthquake resistance
+- **Solar + Battery Storage** - Integrated renewable energy with V2H (vehicle-to-home)
+- **Indoor Air Circulation** - Advanced ventilation and air quality management
+
+**Company Philosophy:**
+- Five core values: "longevity," "spaciousness," "affordability," "high performance," "asset value"
+- **"Family health as serious concern"** - Prioritizes occupant wellness
+- Focus on invisible quality (thermal/air performance) over cosmetics
+- Mission to elevate Japanese housing to global standards
+
+#### Pricing
+
+**Tsubo Unit Price Range:** ¥55.5-90万/tsubo
+- Budget-friendly models: ¥55-65万/tsubo (e.g., 二世帯住宅 ー絆ー at ¥45-55万)
+- Mid-range models: ¥65-75万/tsubo
+- Premium models: ¥75-90万/tsubo (latest high-spec models)
+**Average:** ¥70-90万/tsubo for current generation
+
+**Example Project:**
+- "Enerju L" model: ¥20.8M (excluding associated costs)
+- 35 tsubo "Enerju UW" in Chiba: High insulation with atrium living (estimated ¥24.5-31.5M)
+
+**Position:** Mid to mid-high tier, competitive for performance level
+
+**Budget Fit (30 tsubo):**
+- At ¥70-90万/tsubo = ¥21-27M (building body)
+- With site work, exterior, utilities = ¥25-35M total (fits budget upper end)
+
+#### Warranty & Support
+
+- **60-Year Super Long-Term Warranty** (最長60年の超長期保証)
+- Foundation quality assurance systems
+- Dedicated after-sales support network
+- Long-term relationship focus
+
+#### Alignment with Your Requirements
+
+**Tenets Match:**
+
+- ✅ **Natural Light:** VERY GOOD (8/10) - Portfolio shows multiple 吹き抜け (atrium/skylight) designs, focus on openness and spaciousness, "spacious" core value
+- ✅✅ **Garden Space:** EXCELLENT (9/10) - Rooftop garden market leader for 14 years, transforms roof into usable garden space, perfect for urban lots
+- ✅✅ **Environmental:** EXCELLENT (9/10) - LCCM standards, Tokyo Eco-Builder award, ZEH certification, net-negative carbon focus, sustainability awards
+- ✅✅ **Energy Efficient:** OUTSTANDING (10/10) - Grade 7 insulation (highest level), UA 0.22-0.26, C値 0.5, ZEH 6-star, Energy Conservation Grand Prize, best-in-class specifications
+
+**Requirements Compatibility:**
+
+- ✅✅ **Garden Space:** SPECIALTY - Rooftop gardens are company trademark, 14-year market leader
+- ✅ **Large Bath:** Standard custom options, flexible design
+- ✅ **3-4 LDK:** Flexible layouts with multi-generational options
+- ✅✅ **Solar:** STANDARD - ZEH baseline includes solar + battery storage integration
+- ⚠️ **Ground Source Heat Pump:** YUCACO whole-house HVAC (likely air-source, requires verification if GSHP compatible)
+- ✅ **Additional Ground Floor Room:** Skip-floor designs, multi-generational layouts support
+- ✅ **Internal Courtyard:** Portfolio shows courtyard designs (#6 "Architecturally Refined Residence")
+- ✅✅ **Skylights:** DEMONSTRATED - Multiple portfolio examples with 吹き抜け (soaring ceilings/atriums)
+
+#### Pros & Cons
+
+**Pros:**
+- Best-in-class energy efficiency (Grade 7, UA 0.22-0.26, C値 0.5)
+- Rooftop garden specialty (14-year market leader) = unique garden solution
+- Perfect location (Kashiwa showroom, serves all target cities)
+- ZEH 6-star certification with proven track record
+- Whole-house HVAC system (YUCACO) for consistent comfort
+- 60-year warranty = long-term peace of mind
+- Solar + battery + V2H integration standard
+- Multiple awards (Energy Conservation Grand Prize, Tokyo Eco-Builder)
+- National company stability with local presence
+- Portfolio shows atrium/skylight designs matching requirements
+
+**Cons:**
+- National builder scale = less personalized than boutique 工務店
+- Mid-high pricing (¥70-90万/tsubo) vs budget options
+- Rooftop gardens compete with traditional ground gardens (different aesthetic)
+- YUCACO whole-house HVAC may limit ground source heat pump flexibility
+- Less focus on natural materials vs energy performance technology
+- 3/5 stars average rating (some mixed reviews on communication)
+- May push proprietary systems over alternatives
+
+#### Best For
+
+- **Energy efficiency as absolute top priority**
+- **Rooftop garden concept** appeals (innovative use of space)
+- **Best-in-class specifications** important (Grade 7, UA 0.22)
+- **ZEH certification** and proven zero-energy performance
+- **Long-term warranty** valued (60 years)
+- **Urban lot** where rooftop maximizes limited space
+- **Whole-house HVAC** system appeal (consistent temperature)
+- **National company stability** with local service
+
+#### Notable Portfolio Examples
+
+1. **Rooftop Garden Residence (Otsu, Shiga)** - 屋上とダウンフロア design with rooftop terrace and gathering spaces
+2. **Architecturally Refined Residence (Himeji, Hyogo)** - Central courtyard with storage solutions and soaring spaces
+3. **Modern Tile Residence (Kakogawa, Hyogo)** - Single-story hotel-inspired design with natural light, ZEH certified
+4. **Black Residence with Garage and Atrium (Ama)** - Modern design with 吹き抜け (soaring ceiling spaces)
+5. **Solar-Powered Climate-Controlled Home (Utsunomiya, Tochigi)** - Solar panels, high insulation/airtightness focus
+
+**Portfolio:** [https://www.yamatojk.co.jp/album](https://www.yamatojk.co.jp/album)
+
+#### Contact Information
+
+**Kashiwa Showroom:**
+- Address: 千葉県柏市十余二403-1
+- Access: つくばエクスプレス柏の葉キャンパス駅 徒歩20分 (20 min walk from Kashiwa-no-ha Campus Station)
+- Website: [https://www.yamatojk.co.jp/office/kashiwa](https://www.yamatojk.co.jp/office/kashiwa)
+
+---
+
 ## GOOD LOCAL BUILDERS
 
-### 8. 小川工務店 (Ogawa Koumuten)
+### 9. 小川工務店 (Ogawa Koumuten)
 
 [🔗 Website](https://www.ogawa-bco.co.jp/)
 
@@ -682,7 +825,7 @@ Comprehensive evaluation of smaller and mid-tier house builders (工務店 and r
 
 ---
 
-### 9. 広島建設 / セナリオハウス (Hirosima Kensetsu / Scenario House)
+### 10. 広島建設 / セナリオハウス (Hirosima Kensetsu / Scenario House)
 
 [🔗 Website](https://www.hirosima.co.jp/house/)
 
@@ -721,7 +864,7 @@ Comprehensive evaluation of smaller and mid-tier house builders (工務店 and r
 
 ---
 
-### 10. R+house (Regional Network)
+### 11. R+house (Regional Network)
 
 [🔗 Website](https://www.r-plus-house.com/)
 
@@ -845,7 +988,14 @@ Comprehensive evaluation of smaller and mid-tier house builders (工務店 and r
 
 ### If Energy Efficiency + Technical Performance are #1:
 
-**Top Choice:** 太陽ハウス (Taiyo House)
+**Top Choice:** ヤマト住建 (Yamato Juken)
+- Grade 7 insulation (highest level achievable)
+- Best-in-class UA 0.22-0.26, C値 0.5
+- ZEH 6-star certification
+- Energy Conservation Grand Prize winner
+- Whole-house HVAC system
+
+**Alternative:** 太陽ハウス (Taiyo House)
 - ZEH certified as baseline
 - Earthquake rating 3 standard
 - Proven performance track record
@@ -855,7 +1005,7 @@ Comprehensive evaluation of smaller and mid-tier house builders (工務店 and r
 - High insulation performance
 - Premium materials
 
-**Alternative:** R+house
+**Budget-Friendly:** R+house
 - High-performance focus
 - Architect-designed efficiency
 - Advanced specifications
@@ -888,6 +1038,7 @@ Comprehensive evaluation of smaller and mid-tier house builders (工務店 and r
 1. **Contact Top 3-5 Builders:**
    - 仁科建設 (Nishina) - Website inquiry form
    - 助川工務店 (Sukegawa) - 0120-37-6618
+   - ヤマト住建 (Yamato Juken) - Kashiwa showroom visit
    - 太陽ハウス (Taiyo House) - 047-701-7552
    - 水戸工務店 (Mito) - Website inquiry
    - 木ごこち工務店 (Kigokochi) - Website inquiry
@@ -946,7 +1097,7 @@ When visiting/consulting builders, assess:
 
 ## CONCLUSION
 
-The local builder landscape in Chiba Prefecture offers excellent alternatives to major house makers, with builders like **仁科建設** providing perfect alignment with natural light priorities, **助川工務店** offering 137 years of established craftsmanship, and **太陽ハウス** delivering proven ZEH performance across all target cities.
+The local builder landscape in Chiba Prefecture offers excellent alternatives to major house makers, with builders like **仁科建設** providing perfect alignment with natural light priorities, **助川工務店** offering 137 years of established craftsmanship, **ヤマト住建** delivering best-in-class energy efficiency (Grade 7) with rooftop garden specialty, and **太陽ハウス** providing proven ZEH performance across all target cities.
 
 These smaller and mid-tier builders typically offer:
 - **Better cost-performance** (¥490k-850k/tsubo vs ¥900k-1,200k+ for major makers)
@@ -974,6 +1125,13 @@ All three offer strong value propositions well-suited to your ¥25-35M budget ra
 
 - [助川工務店 公式サイト](https://www.sukegawanet.com/)
 - [助川工務店 口コミ・評判 - おうちの買い方](https://ouchino-kaikata.com/magazine/blog/1571.html)
+- [ヤマト住建 公式サイト](https://www.yamatojk.co.jp/)
+- [ヤマト住建 柏ショールーム](https://www.yamatojk.co.jp/office/kashiwa)
+- [ヤマト住建 ポートフォリオ](https://www.yamatojk.co.jp/album)
+- [ヤマト住建 坪単価 60万円台の建築事例 - SUUMO](https://suumo.jp/chumon/koumuten/rn_yamatojk021/jitsurei/J14/)
+- [ヤマト住建の坪単価とみんなの口コミ - みんなの工務店リサーチ](https://www.varesearch.com/ibaraki/4371/)
+- [ヤマト住建の総額坪単価は90万円〜 - おうちキャンバス](https://ouchicanvas.com/column/housemaker/yamatojuken-matome.html)
+- [ヤマト住建の坪単価・評判 2025年最新版 - HOME4U](https://house.home4u.jp/contents/maker-55-17578)
 - [木ごこち工務店 公式サイト](https://kigokochi.co.jp/)
 - [太陽ハウス 公式サイト](https://www.taiyo-house.co.jp/custom_home/)
 - [太陽ハウス SUUMO 掲載](https://suumo.jp/chumon/koumuten/rn_taiyohouse/)
