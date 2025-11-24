@@ -10,7 +10,7 @@ This is a comprehensive research project for building a custom home in Japan. Th
 - **Target Areas:** Along Tsukuba Express Line (Kashiwa Tanaka, Kashiwa no Ha Campus, Ootaka no Mori area)
 - **Distance from Station:** Preferred <15 mins walking, max 25 mins
 - **Experience:** Has lived in Japan for over a decade, married to Japanese national, near-fluent Japanese ability
-- **Project Status:** Early research phase, gathering information to find best builder option
+- **Project Status:** Research phase completed, documentation finalized
 
 ## Project Tenets (Core Values)
 
@@ -36,87 +36,133 @@ This is a comprehensive research project for building a custom home in Japan. Th
 - **Skylights** - Natural light from above
 - **Pantry** - Kitchen storage space
 
-## Research Completed
+## Current File Structure
 
-### Documents Created
-- `data/goals.md` - Original project goals and requirements
-- `research-process.md` - Documentation of research methodology  
-- `data/japan-house-building-guide.md` - Comprehensive guide to Japanese house building
-- `data/builder-evaluation-list.md` - Evaluation of 13 major builders/architects
-- `data/clehome.md` - Detailed profile of local builder CLEHOME
-- `data/sumitomo-forestry.md` - Comprehensive analysis of Sumitomo Forestry product lineup
+### Data Directory (Source Files)
+```
+data/
+├── goals.md (English - original project goals)
+├── japan-house-building-guide.md (English - comprehensive building guide)
+├── builder-evaluation-list.md (English - 13 builders evaluated)
+├── clehome.md (English - detailed CLEHOME profile)
+└── sumitomo-forestry.md (English - complete product analysis)
+```
 
-### Key Findings
+### Documentation Website (Japanese)
+```
+docs/
+├── index.html (Main page - 家を建てよう)
+├── style.css (Layout with sidebar and scrollable content)
+├── goals.html (家を建てる - project goals)
+├── japan-house-building-guide.html (日本の家づくりガイド)
+├── builder-evaluation-list.html (日本の住宅建築業者評価リスト)
+├── clehome.html (CLEHOMEプロフィール)
+├── sumitomo-forestry.html (住友林業商品分析)
+└── [corresponding .md files with Japanese translations]
+```
 
-#### Top Recommended Builders
-1. **住友林業 (Sumitomo Forestry)** - GRAND LIFE series recommended
-   - Excellent natural light/garden expertise through "living harmoniously with nature" philosophy
-   - Single-story GRAND LIFE perfect for all requirements
-   - Budget: ¥27-33M for 30 tsubo base
+### Meta Files
+- `research-process.md` - Documentation of research methodology
+- `CLAUDE.md` - This context file
 
-2. **CLEHOME** - Local Nagareyama builder
-   - Perfect location match (based in target area)
-   - Natural materials focus, cost-effective
-   - Budget: Mid-range pricing (requires direct inquiry for specifics)
+## Website Features
 
-3. **デ・ステイル建築研究所** - Chiba-based architect
-   - Nature integration specialty, full customization
-   - Higher cost but maximum flexibility
+### Layout
+- **Sidebar Navigation** - Table of contents with # links to headings
+- **Viewport Height Layout** - Fixed 100vh body with scrollable content
+- **Centered Content** - Max-width 900px, centered in content area
+- **Responsive** - Sidebar stacks on mobile
 
-#### Market Context
-- **Regional pricing (Kashiwa/Nagareyama):** ¥35-45M typical for land + construction
-- **Station proximity impact:** <10 min walk = ¥45M+, >30 min = ¥35-40M
-- **工務店 vs ハウスメーカー:** Local builders typically 70% cost of major house makers
+### Content Structure
+- **Japanese Translation** - All content professionally translated
+- **Clean HTML** - Semantic structure with proper headings and IDs
+- **Simple Styling** - Clean typography, no colors, professional appearance
 
-### Builder Types Understanding
-- **ハウスメーカー (House Makers):** National companies, standardized products, higher cost, reliable
-- **工務店 (Local Builders):** Regional companies, more customizable, cost-effective, variable quality  
-- **設計事務所 (Architects):** Full custom design, highest flexibility, premium cost + 10-20% design fees
+## Research Findings Summary
 
-## Technical Research Areas
+### Top Builder Recommendations
 
-### Building Standards (Current)
-- **2025 April:** Energy efficiency standards mandatory (Grade 4 minimum)
-- **2030 Target:** ZEH standard (Grade 5) for all new homes
-- **ZEH Requirements:** High insulation + renewable energy for net-zero energy
+#### 1. 住友林業 (Sumitomo Forestry) - GRAND LIFE Series
+- **Match Score:** 9.5/10
+- **Best For:** Single-story design optimizing natural light and garden integration
+- **Budget:** ¥27-33M for 30 tsubo
+- **Specialty:** Wood construction with Big Frame method, passive design expertise
+
+#### 2. CLEHOME (Local Nagareyama Builder)
+- **Match Score:** 8/10  
+- **Best For:** Cost-effective local expertise
+- **Location:** Based directly in target area
+- **Specialty:** Natural materials, custom design, community focus
+
+#### 3. デ・ステイル建築研究所 (Architect)
+- **Match Score:** 9/10
+- **Best For:** Maximum customization and natural integration
+- **Location:** Chiba-based
+- **Specialty:** Nature integration, full custom design
+
+### Market Context (Kashiwa/Nagareyama)
+- **Regional Pricing:** ¥35-45M typical for land + construction
+- **Station Proximity Impact:** <10 min = ¥45M+, >30 min = ¥35-40M
+- **Builder Cost Advantage:** 工務店 typically 70% of major house maker costs
+
+### Building Standards Context
+- **2025 April:** Energy efficiency mandatory (Grade 4 minimum)
+- **2030 Target:** ZEH standard for all new homes
+- **ZEH Requirements:** High insulation + renewable energy
 - **Seismic Standards:** Grade 3 recommended for insurance benefits
 
-### Key Terminology
-- **坪 (Tsubo):** 3.3㎡ unit for measuring house size and pricing
-- **坪単価 (Tsubo-tanka):** Price per tsubo, key pricing metric
-- **ZEH:** Net Zero Energy House standard
-- **坪庭 (Tsubo-niwa):** Small internal courtyard garden
-- **LDK:** Living-Dining-Kitchen layout designation
+## Technical Implementation Notes
 
-## Priority Questions for Further Research
+### Website Development Process
+1. **Content Creation** - Comprehensive research in English
+2. **Translation** - Professional Japanese translation of all content
+3. **HTML Conversion** - Markdown to semantic HTML with proper structure
+4. **Layout Design** - Sidebar TOC navigation with centered content
+5. **Styling** - Clean, minimal CSS focusing on readability
 
-1. **Ground Source Heat Pump Availability:** Which builders have GSHP experience?
-2. **Internal Courtyard Examples:** Portfolio of 坪庭 implementations
-3. **Specific Budget Ranges:** Actual project costs from preferred builders
-4. **Timeline Expectations:** Design to completion duration
-5. **Chiba Service Areas:** Confirm local availability and teams
+### CSS Architecture
+```css
+- Flexbox layout for sidebar + content
+- 100vh body height with overflow control
+- Scrollable content area only
+- Centered content with max-width constraint
+- Responsive mobile-first approach
+```
 
-## Research Approach Notes
+### Content Management
+- **Source of Truth:** English markdown files in `/data/`
+- **Published Version:** Japanese HTML files in `/docs/`
+- **Maintenance:** Update data files, regenerate docs/ as needed
 
-- **Language Strategy:** Conducted searches in both English and Japanese for comprehensive coverage
-- **Source Verification:** Cross-referenced multiple sources for pricing and technical information
-- **Practical Focus:** Emphasized actionable information for decision-making rather than theoretical knowledge
-- **Local Context:** Prioritized information specific to Chiba Prefecture and target areas
+## Outstanding Questions for Builder Engagement
 
-## Next Steps Recommendations
+1. **Ground Source Heat Pump Experience** - Verify GSHP installation capabilities
+2. **Internal Courtyard Portfolio** - Request examples of 坪庭 designs
+3. **Specific Project Budgets** - Get detailed quotes for requirements
+4. **Timeline Estimates** - Design to completion duration
+5. **Technical Capabilities** - Confirm specialized systems experience
 
-1. **Direct Contact Phase:** Schedule consultations with top 3 builders
-2. **Model Home Visits:** Tour examples in target area
-3. **Portfolio Reviews:** Request detailed project examples with budgets  
-4. **Technical Verification:** Confirm GSHP and specialized system capabilities
-5. **Timeline Planning:** Understand realistic project schedules
+## Next Phase Recommendations
 
-## Important Context for AI Assistants
+1. **Direct Builder Contact** - Schedule consultations with top 3 candidates
+2. **Model Home Tours** - Visit examples in Chiba area
+3. **Portfolio Deep Dive** - Review detailed project examples with budgets
+4. **Technical Verification** - Confirm capability for specialized requirements
+5. **Timeline Planning** - Establish realistic project schedule
 
-- **User is experienced with Japan:** No need to explain basic Japanese concepts
-- **Focus on practical details:** Emphasize actionable information over general advice
-- **Budget consciousness:** While quality is important, cost-effectiveness matters
-- **Environmental priorities:** Natural materials and sustainability are core values
-- **Location specificity:** Chiba Prefecture focus is critical for relevance
+## Usage Notes for AI Assistants
 
-This project represents early-stage research transitioning toward active builder engagement and decision-making.
+- **User Experience Level:** Expert - no need to explain basic Japanese concepts
+- **Focus Areas:** Practical implementation over theoretical discussion
+- **Budget Sensitivity:** Quality important but cost-effectiveness valued
+- **Environmental Priority:** Natural materials and sustainability core values
+- **Location Specificity:** Chiba Prefecture focus critical for relevance
+
+## Current Project Status
+
+**Phase:** Research Complete → Ready for Builder Engagement  
+**Documentation:** Comprehensive website ready for reference during consultations  
+**Decision Framework:** Clear evaluation criteria and top candidates identified  
+**Next Action:** Begin direct contact with recommended builders
+
+This project represents a successful transition from initial research to actionable builder evaluation with comprehensive documentation supporting informed decision-making.

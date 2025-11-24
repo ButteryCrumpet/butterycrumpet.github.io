@@ -120,7 +120,7 @@ Based on your goals from `goals.md`, here's a comprehensive evaluation of builde
 ---
 
 #### 5. 大和ハウス (Daiwa House)
-[📄 Detailed Analysis](daiwa-house.md)  
+[📄 Detailed Analysis](daiwa-house.md)
 **Tenet Match: GOOD (6.5/10)**
 - ✅ **Natural Light**: South-facing full windows, large openings specialty
 - ✅ **Energy Efficient**: Good environmental performance
@@ -137,31 +137,57 @@ Based on your goals from `goals.md`, here's a comprehensive evaluation of builde
 - ✅ Internal courtyard: Steel frame suitable
 - ✅ Skylights: Large opening capabilities
 
-**Pros:** Excellent for large openings and natural light, flexible steel construction  
-**Cons:** Less environmental focus, premium pricing  
-**Budget:** High-end  
+**Pros:** Excellent for large openings and natural light, flexible steel construction
+**Cons:** Less environmental focus, premium pricing
+**Budget:** High-end
 **Chiba Availability:** ✅ Major presence
+
+---
+
+#### 6. ウィザースホーム (Withearth Home)
+[📄 Detailed Analysis](withearth-home.md)
+**Tenet Match: GOOD (7/10)**
+- ⚠️ **Natural Light**: Not specifically emphasized, design flexibility available
+- ⚠️ **Garden Space**: Not core focus area
+- ✅ **Environmental**: Strong sustainability commitment, SDG alignment, LCC considerations
+- ✅ **Energy Efficient**: Super high insulation, ZEH options, full-building air conditioning
+
+**Requirements Match:**
+- ⚠️ Garden space: Possible but not specialty
+- ✅ Large bath: Standard options with custom design flexibility
+- ✅ 3-4 LDK: Standard offering
+- ✅ Solar: ZEH options available
+- ❓ Ground source heat pump: Would need to verify
+- ✅ Additional room: Flexible design with select-order system
+- ⚠️ Internal courtyard: Possible but not emphasized
+- ⚠️ Skylights: Design flexibility may allow
+
+**Pros:** Strong environmental focus (SDG goals), super high insulation, ZEH options, tile exterior durability, in-house factory quality control, seismic resistance
+**Cons:** Less emphasis on natural light/garden integration, limited unique design features beyond tile cladding
+**Budget:** Mid to high-end (typical major house maker pricing)
+**Timeline:** 6-10 months (estimated)
+**Chiba Availability:** ✅ Serves Chiba (Kanto region focus)
 
 ---
 
 ### 🔄 MODERATE MATCHES
 
-#### 6. 三井ホーム (Mitsui Home)
-[📄 Detailed Analysis](mitsui-home.md)  
+#### 7. 三井ホーム (Mitsui Home)
+[📄 Detailed Analysis](mitsui-home.md)
 **Tenet Match: MODERATE (6/10)**
 - ✅ **Natural Light**: Design-focused approach
 - ⚠️ **Garden Space**: Possible but luxury focus over natural integration
 - ✅ **Environmental**: Available but not core focus
 - ⚠️ **Energy Efficient**: Standard performance
 
-**Pros:** Exceptional design quality, premium finishes  
-**Cons:** Very expensive, design over environmental focus  
-**Budget:** Very high-end  
+**Pros:** Exceptional design quality, premium finishes
+**Cons:** Very expensive, design over environmental focus
+**Budget:** Very high-end
 **Match:** Better for luxury than environmental goals
 
 ---
 
-#### 7. ヘーベルハウス (Hebel House)
+#### 8. ヘーベルハウス (Hebel House)
 [📄 Detailed Analysis](hebel-house.md)  
 **Tenet Match: MODERATE (6/10)**
 - ✅ **Energy Efficient**: Standard solar, good insulation
@@ -179,7 +205,7 @@ Based on your goals from `goals.md`, here's a comprehensive evaluation of builde
 
 ### 🌟 TOP MATCHES
 
-#### 8. デ・ステイル建築研究所 (De Stijl Architectural Research)
+#### 9. デ・ステイル建築研究所 (De Stijl Architectural Research)
 [📄 Detailed Analysis](de-stijl.md)  
 **Location:** Chiba-based  
 **Tenet Match: EXCELLENT (9/10)**
@@ -206,7 +232,7 @@ Based on your goals from `goals.md`, here's a comprehensive evaluation of builde
 
 ---
 
-#### 9. 結設計 (Yui Design)
+#### 10. 結設計 (Yui Design)
 [📄 Detailed Analysis](yui-design.md)  
 **Location:** Tokyo (serves Chiba)  
 **Tenet Match: EXCELLENT (9/10)**
@@ -232,7 +258,7 @@ Based on your goals from `goals.md`, here's a comprehensive evaluation of builde
 
 ---
 
-#### 10. アーキスタジオ (Archi Studio)
+#### 11. アーキスタジオ (Archi Studio)
 [📄 Detailed Analysis](archi-studio.md)  
 **Tenet Match: VERY GOOD (8/10)**
 - ✅ **Environmental**: "Maximum effects from minimum resources"
@@ -250,7 +276,7 @@ Based on your goals from `goals.md`, here's a comprehensive evaluation of builde
 
 ### 🌟 TOP LOCAL MATCHES
 
-#### 11. CLEHOME
+#### 12. CLEHOME
 [📄 Detailed Analysis](clehome.md)  
 **Location:** Nagareyama/Kashiwa area  
 **Tenet Match: VERY GOOD (8/10)**
@@ -277,7 +303,7 @@ Based on your goals from `goals.md`, here's a comprehensive evaluation of builde
 
 ---
 
-#### 12. 木のすまい工房 (Ki no Sumai Koubou)
+#### 13. 木のすまい工房 (Ki no Sumai Koubou)
 [📄 Detailed Analysis](ki-no-sumai-koubou.md)  
 **Location:** Chiba  
 **Tenet Match: VERY GOOD (8/10)**
@@ -303,7 +329,7 @@ Based on your goals from `goals.md`, here's a comprehensive evaluation of builde
 
 ---
 
-#### 13. 木の国工房 (Ki no Kuni Koubou)
+#### 14. 木の国工房 (Ki no Kuni Koubou)
 [📄 Detailed Analysis](ki-no-kuni-koubou.md)  
 **Location:** Has model in Nagareyama  
 **Tenet Match: EXCELLENT (9/10)**
@@ -322,11 +348,211 @@ Based on your goals from `goals.md`, here's a comprehensive evaluation of builde
 - ⚠️ Internal courtyard: Would need verification
 - ✅ Skylights: Design flexibility
 
-**Pros:** ZEH standard, natural materials, model house in Nagareyama, proven local performance  
-**Cons:** Smaller scale than major builders  
-**Budget:** Mid-range  
-**Timeline:** 8-12 months  
+**Pros:** ZEH standard, natural materials, model house in Nagareyama, proven local performance
+**Cons:** Smaller scale than major builders
+**Budget:** Mid-range
+**Timeline:** 8-12 months
 **Chiba Availability:** ✅ Model house in your target area
+
+---
+
+## ADDITIONAL LOCAL BUILDERS - DETAILED CHIBA LISTINGS
+
+**[📄 Complete Listing: Local & Regional Builders](local-builders-chiba.md)**
+
+The following builders represent additional local (工務店) and regional options in the Kashiwa/Nagareyama/Chiba area, offering personalized service, natural materials focus, and cost-effective alternatives. See the complete listing document for full profiles, comparison matrix, and detailed analysis.
+
+---
+
+#### 15. 仁科建設 (Nishina Kensetsu)
+[🔗 Website](https://nishinakensetsu.jp/)
+**Location:** Chiba City (serves Chiba Prefecture)
+**Tenet Match: EXCELLENT (9/10)**
+- ✅✅ **Natural Light**: SPECIALTY - "Sun and Wood Houses" (太陽と木の家) core philosophy
+- ✅ **Garden Space**: Natural integration philosophy, custom design
+- ✅✅ **Environmental**: Local Chiba materials, traditional sustainable methods
+- ✅✅ **Energy Efficient**: Double insulation, passive solar design
+
+**Requirements Match:**
+- ✅ Garden space: Custom design fully supports integration
+- ✅ Large bath: Complete customization
+- ✅ 3-4 LDK: Flexible layouts
+- ✅ Solar: Compatible with environmental philosophy
+- ❓ Ground source heat pump: Requires verification
+- ✅ Additional room: Design flexibility
+- ✅ Internal courtyard: Natural light focus makes this ideal
+- ✅ Skylights: Passive solar expertise supports strategic placement
+
+**Pros:** Perfect natural light alignment, architect+carpenter president, 10 homes/year personalized service, exposed beam construction, plaster walls, double insulation
+**Cons:** Limited production (waiting list possible), Chiba City location (not immediate target area)
+**Budget:** Budget-friendly to mid-range (from ¥15M+)
+**Chiba Availability:** ✅ Chiba Prefecture focus
+
+---
+
+#### 16. 助川工務店 (Sukegawa Koumuten)
+[🔗 Website](https://www.sukegawanet.com/)
+**Location:** Kashiwa & Abiko cities
+**Tenet Match: VERY GOOD (8.5/10)**
+- ✅ **Natural Light**: Quality wood construction allows large openings
+- ✅ **Garden Space**: Natural materials complement garden integration
+- ✅✅ **Environmental**: German Black Forest fir wood throughout, chemical-free
+- ✅✅ **Energy Efficient**: Fir wood natural insulation, high airtightness, humidity control
+
+**Requirements Match:**
+- ✅ Garden space: Design flexibility
+- ✅ Large bath: Custom design
+- ✅ 3-4 LDK: Standard
+- ✅ Solar: Can integrate
+- ❓ Ground source heat pump: Requires verification
+- ✅ Additional room: Flexible layouts
+- ⚠️ Internal courtyard: Possible but not demonstrated
+- ✅ Skylights: Design flexibility
+
+**Pros:** 137 years established (1887), perfect location (Kashiwa/Abiko), unique fir wood specialty with natural benefits, excellent customer service, temple/shrine carpentry heritage
+**Cons:** Fir wood aesthetic is specific, natural light not core specialty
+**Budget:** Mid-range (~¥570k/tsubo estimated)
+**Chiba Availability:** ✅ Based in target area
+
+---
+
+#### 17. 太陽ハウス (Taiyo House)
+[🔗 Website](https://www.taiyo-house.co.jp/)
+**Location:** Matsudo, Kashiwa, Nagareyama
+**Tenet Match: VERY GOOD (8/10)**
+- ✅ **Natural Light**: Design flexibility allows optimization
+- ✅ **Garden Space**: Custom design supports integration
+- ✅ **Environmental**: ZEH standard demonstrates commitment
+- ✅✅ **Energy Efficient**: ZEH baseline, certified expertise, proven performance
+
+**Requirements Match:**
+- ✅ Garden space: Custom design flexibility
+- ✅ Large bath: Standard custom options
+- ✅ 3-4 LDK: Standard
+- ✅✅ Solar: ZEH standard includes solar
+- ❓ Ground source heat pump: ZEH expertise suggests openness
+- ✅ Additional room: Multiple construction methods support layouts
+- ⚠️ Internal courtyard: Possible but not demonstrated
+- ✅ Skylights: Design flexibility
+
+**Pros:** Perfect coverage (all 3 target cities), ZEH baseline, earthquake rating 3 standard, 60%+ referral rate, 45 years local experience
+**Cons:** Not specialized in natural light/garden, mid-high pricing
+**Budget:** Mid to mid-high (¥32M for 35-38 tsubo)
+**Timeline:** Standard for custom homes
+**Chiba Availability:** ✅ Perfect - covers all target cities
+
+---
+
+#### 18. 水戸工務店 (Mito Koumuten)
+[🔗 Website](https://mitok.jp/)
+**Location:** Kashiwa City
+**Tenet Match: VERY GOOD (8/10)**
+- ✅ **Natural Light**: Design flexibility, comfort focus
+- ✅ **Garden Space**: Custom design, natural materials complement
+- ✅✅ **Environmental**: Premium Kishu cypress/cedar, traditional materials
+- ✅✅ **Energy Efficient**: High insulation, comfort-focused systems
+
+**Requirements Match:**
+- ✅ Garden space: Custom design flexibility
+- ✅ Large bath: Premium hinoki baths possible
+- ✅ 3-4 LDK: Custom layouts
+- ✅ Solar: Can integrate
+- ❓ Ground source heat pump: Technical expertise suggests capable
+- ✅ Additional room: Flexible design
+- ⚠️ Internal courtyard: Possible but not demonstrated
+- ✅ Skylights: Design flexibility
+
+**Pros:** Perfect location (Kashiwa), premium Kishu wood, transparent pricing (no negotiation), technical expertise, no overhead costs, carpenter training commitment
+**Cons:** No showroom, smaller operation, garden/light not core specialties
+**Budget:** Mid-range with transparent pricing
+**Chiba Availability:** ✅ Kashiwa-based
+
+---
+
+#### 19. 石井工業 (Ishii Kogyo)
+[🔗 Website](https://ishiikogyo.jp/)
+**Location:** Sammu City, Chiba
+**Tenet Match: VERY GOOD (8.5/10)**
+- ✅ **Natural Light**: Traditional design adaptability
+- ✅ **Garden Space**: Natural materials philosophy complements
+- ✅✅ **Environmental**: Forest-to-home Sambu cedar, complete sustainability
+- ✅ **Energy Efficient**: Diatomaceous earth climate control, natural insulation
+
+**Requirements Match:**
+- ✅ Garden space: Natural materials complement outdoor spaces
+- ✅ Large bath: Custom cedar/hinoki baths
+- ✅ 3-4 LDK: Custom design
+- ⚠️ Solar: Traditional roof may have considerations
+- ❓ Ground source heat pump: Wood stove specialty suggests alternative heating
+- ✅ Additional room: Design flexibility
+- ✅ Internal courtyard: Natural design philosophy supports
+- ⚠️ Skylights: Traditional construction may have constraints
+
+**Pros:** Complete forest-to-home sustainability, 77 years 4th generation, Sambu cedar specialty, traditional techniques, diatomaceous earth walls, referral-based business
+**Cons:** Sammu City location farther from target area, traditional approach may limit modern features
+**Budget:** Unknown (requires inquiry)
+**Chiba Availability:** ✅ Chiba-based (Sammu City)
+
+---
+
+#### 20. 木ごこち工務店 (Kigokochi Koumuten)
+[🔗 Website](https://kigokochi.co.jp/)
+**Location:** Kashiwa City
+**Tenet Match: VERY GOOD (8/10)**
+- ✅ **Natural Light**: Custom design flexibility, comfort includes lighting
+- ✅ **Garden Space**: Natural materials complement outdoor connection
+- ✅✅ **Environmental**: Plaster walls and natural wood standard
+- ✅ **Energy Efficient**: Natural materials provide thermal mass
+
+**Requirements Match:**
+- ✅ Garden space: Custom design supports
+- ✅ Large bath: Custom with natural materials
+- ✅ 3-4 LDK: Flexible custom layouts
+- ✅ Solar: Compatible
+- ❓ Ground source heat pump: Requires verification
+- ✅ Additional room: Custom flexibility
+- ⚠️ Internal courtyard: Possible but not demonstrated
+- ✅ Skylights: Design flexibility
+
+**Pros:** Perfect location (Kashiwa), natural materials STANDARD (plaster walls), comfort-focused philosophy, custom design strength
+**Cons:** Limited online information, pricing may be mid-high
+**Budget:** Mid to mid-high (estimated ¥650k-944k/tsubo)
+**Chiba Availability:** ✅ Kashiwa City
+
+---
+
+#### 21. ちばの木建築舎 (Chiba no Ki Kenchikusha)
+[🔗 Website](https://tibanoki.com/)
+**Location:** Chiba City
+**Tenet Match: VERY GOOD (8/10)**
+- ✅ **Natural Light**: Solar expertise suggests passive design understanding
+- ✅ **Garden Space**: Natural materials complement
+- ✅✅ **Environmental**: Local Chiba wood, natural air-drying, health focus
+- ✅✅ **Energy Efficient**: Solar heating specialty, passive design
+
+**Requirements Match:**
+- ✅ Garden space: Natural materials philosophy
+- ✅ Large bath: Cedar/cypress baths
+- ✅ 3-4 LDK: Custom design
+- ✅✅ Solar: SPECIALTY - solar heating systems
+- ❓ Ground source heat pump: Solar expertise suggests openness to renewables
+- ✅ Additional room: Design flexibility
+- ⚠️ Internal courtyard: Possible but not demonstrated
+- ✅ Skylights: Passive solar knowledge supports placement
+
+**Pros:** Solar heating SPECIALTY, certified Chiba Wood shop, air-dried lumber (superior quality), exposed structure, health/environmental focus
+**Cons:** Chiba City Midori-ku location, limited online portfolio
+**Budget:** Unknown (requires inquiry)
+**Chiba Availability:** ✅ Chiba City
+
+---
+
+**See [Complete Local Builders Guide](local-builders-chiba.md) for:**
+- Additional builders (小川工務店, 広島建設, R+house)
+- Detailed comparison matrix
+- Recommendations by specific priorities
+- Contact information and next steps
+- Comprehensive pros/cons analysis for each builder
 
 ---
 
