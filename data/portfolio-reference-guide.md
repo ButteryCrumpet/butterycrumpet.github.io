@@ -1,6 +1,6 @@
 # Portfolio Reference Guide - Local Chiba Builders
 
-Visual reference guide for reviewing completed projects and design aesthetics of 11 local and regional house builders in the Kashiwa/Nagareyama/Chiba area.
+Visual reference guide for reviewing completed projects and design aesthetics of 12 local and regional house builders in the Kashiwa/Nagareyama/Chiba area.
 
 ## How to Use This Guide
 
@@ -32,6 +32,7 @@ This document provides direct links to portfolio galleries and specific project 
 | 木ごこち工務店 | [Works](https://kigokochi.co.jp/works/) | Natural materials variety | 4 product lines, plaster walls standard | Excellent |
 | ちばの木建築舎 | [Gallery](https://tibanoki.com/gallery/) | Japanese cedar | Natural aging philosophy, local wood | Limited |
 | ヤマト住建 | [Album](https://www.yamatojk.co.jp/album) | Energy efficiency, rooftop gardens | Grade 7 insulation, ZEH 6-star, atriums | Good |
+| CLEHOME | [Website](https://www.clenoie.com/) | Natural materials, garden integration | 6 design styles, architect-led | Limited |
 | 小川工務店 | [Cases](https://www.ogawa-bco.co.jp/case/renovation/) | Renovations, wood decks | Multi-generational, garden connection | Moderate |
 | 広島建設 | [Cases](https://www.hirosima.co.jp/house/case) | Large spaces | Spacious LDK (30+ tatami), modern | Good |
 | R+house | [Gallery](https://www.r-plus-house.com/gallery) / [Chiba](https://www.r-plus-house.com/chiba/gallery/single-story) | Variety, architect-designed | 12,000+ projects, multiple styles | Excellent |
@@ -523,7 +524,91 @@ This document provides direct links to portfolio galleries and specific project 
 
 ---
 
-### 9. 小川工務店 (Ogawa Koumuten)
+### 9. CLEHOME
+
+**Portfolio Page:** https://www.clenoie.com/
+
+**Design Range:** First-class architectural design office offering six distinct design styles from natural materials to Nordic aesthetics. Based in Nagareyama with deep local expertise in Kashiwa/Matsudo/Noda/Abiko areas. Focus on custom design with natural materials, garden integration, and personalized service. Design-led approach with architects as primary contact points.
+
+**Notable Features:**
+
+#### Six Design Style Options
+
+**1. Natural Style (自然派)**
+- Solid wood floors (無垢の床) and natural materials throughout
+- Emphasis on natural textures and tactile surfaces
+- Integration with surrounding environment
+- Wood, cedar, and traditional finishes
+
+**2. Simple Single-Story (シンプル平屋)**
+- "Living rooted to the ground comfortably" (大地に根付いてゆったりと)
+- Spacious single-level living with strong outdoor connection
+- Natural light optimization through strategic planning
+- Ideal for barrier-free living and garden integration
+
+**3. Housework-Friendly Style (家事ラク)**
+- Layout prioritizing housework efficiency
+- Optimized workflow design for daily living
+- Practical considerations for busy families
+- Strategic placement of functional spaces
+
+**4. Nordic Style (北欧スタイル)**
+- Cafe-like atmosphere with cozy aesthetics
+- Scandinavian design influences
+- Warm, inviting spaces with antique lighting
+- Natural materials with modern comfort
+
+**5. Creative Style (クリエイティブ)**
+- Award-winning design approach
+- Architectural innovation and unique solutions
+- Artistic expression in spatial planning
+- Contemporary aesthetics
+
+**6. Hobby Style (趣味)**
+- Specialized spaces for pursuing hobbies and art
+- Custom room design for specific interests
+- Integration of passion into daily living
+- Creative living environments
+
+#### Example Project: Single-Story House on Large Property
+
+**Overview:**
+- **Location:** Not specified (Chiba area)
+- **Lot Size:** 200 tsubo (~660㎡) - Large property with extensive garden
+- **Style:** Natural/Simple Single-Story (自然派 + シンプル平屋)
+
+**Exterior Features:**
+- Single-story layout maximizing ground connection
+- Large garden/field integration
+- Views to landscape from all angles
+- Rooted to land philosophy expressed
+
+**Interior Features:**
+- Natural cedar (秋田杉) in entrance area
+- Wooden ceiling panels aligned with floor boards
+- Natural wood countertops and furniture throughout
+- Open floor plan for children's play spaces
+- Views of sky, garden, and landscape from every room
+
+**Environmental Systems:**
+- Solar power system for energy generation
+- Well water for potential self-sufficiency
+- Wood-burning stove for heating
+- Natural materials throughout (minimal chemicals)
+
+**Design Philosophy:**
+- Strong emphasis on connection to nature
+- Indoor-outdoor living integration
+- Natural light optimization as core principle
+- "Rootedness" to the land
+
+**What to Look For:** Natural material quality, garden integration sophistication, single-story spatial planning, architect-led design refinement, six distinct style options demonstrating range, custom approach to client needs, local Nagareyama expertise
+
+**Contact:** Based in Nagareyama (perfect location for target area), first-class architectural design office, educational approach with house tours and events, land search assistance available
+
+---
+
+### 10. 小川工務店 (Ogawa Koumuten)
 
 **Portfolio Page:** https://www.ogawa-bco.co.jp/case/renovation/
 
@@ -565,7 +650,7 @@ This document provides direct links to portfolio galleries and specific project 
 
 ---
 
-### 10. 広島建設/セナリオハウス (Hirosima Kensetsu / Scenario House)
+### 11. 広島建設/セナリオハウス (Hirosima Kensetsu / Scenario House)
 
 **Portfolio Page:** https://www.hirosima.co.jp/house/case
 
@@ -607,7 +692,7 @@ This document provides direct links to portfolio galleries and specific project 
 
 ---
 
-### 11. R+house
+### 12. R+house
 
 **Portfolio Pages:**
 - National: https://www.r-plus-house.com/gallery

@@ -2,7 +2,7 @@
 
 Comprehensive evaluation of smaller and mid-tier house builders (工務店 and regional ハウスメーカー) in the Kashiwa/Nagareyama/Chiba area offering personalized service, natural materials focus, and cost-effective alternatives to major house makers.
 
-**📸 [Portfolio Reference Guide](portfolio-reference-guide.md)** - Visual examples and gallery links for all 11 builders
+**📸 [Portfolio Reference Guide](portfolio-reference-guide.md)** - Visual examples and gallery links for all 12 builders
 
 ## Target Area Focus
 
@@ -22,6 +22,7 @@ Comprehensive evaluation of smaller and mid-tier house builders (工務店 and r
 | 石井工業 | Sammu City | ★★★★★ | ★★★☆☆ | Unknown | 8.5/10 |
 | 木ごこち工務店 | Kashiwa | ★★★★★ | ★★★★☆ | Mid-High | 8/10 |
 | ちばの木建築舎 | Chiba City | ★★★★★ | ★★★★☆ | Unknown | 8/10 |
+| CLEHOME | Nagareyama | ★★★★★ | ★★★☆☆ | Mid | 8.5/10 |
 | 小川工務店 | Kashiwa/Matsudo/Abiko | ★★★★☆ | ★★★★☆ | Mid | 7.5/10 |
 | 広島建設 | Regional (Chiba/Saitama/Tokyo/Ibaraki) | ★★★☆☆ | ★★★☆☆ | Budget-Mid | 6.5/10 |
 | R+house | Network (Kashiwa/Nagareyama coverage) | ★★★☆☆ | ★★★★★ | Mid | 7/10 |
@@ -32,7 +33,7 @@ Comprehensive evaluation of smaller and mid-tier house builders (工務店 and r
 
 ### 1. 仁科建設 (Nishina Kensetsu)
 
-[🔗 Website](https://nishinakensetsu.jp/)
+[🔗 Website](https://nishinakensetsu.jp/) | [📄 Deep Dive Profile](nishina-kensetsu.md)
 
 **Overall Tenet Match: EXCELLENT (9/10)**
 
@@ -647,7 +648,7 @@ Comprehensive evaluation of smaller and mid-tier house builders (工務店 and r
 
 ### 8. ヤマト住建 (Yamato Juken)
 
-[🔗 Website](https://www.yamatojk.co.jp/)
+[🔗 Website](https://www.yamatojk.co.jp/) | [📄 Deep Dive Profile](yamato-juken.md)
 
 **Overall Tenet Match: VERY GOOD (8.5/10)**
 
@@ -787,9 +788,157 @@ Comprehensive evaluation of smaller and mid-tier house builders (工務店 and r
 
 ---
 
+### 9. CLEHOME
+
+[🔗 Website](https://www.clenoie.com/)
+
+**Overall Tenet Match: VERY GOOD (8.5/10)**
+
+#### Company Overview
+
+**Full Name:** CLEHOME (operated by CLE総合研究所 - CLE General Research Institute)
+**Type:** First-class architectural design office (一級建築士事務所) and construction company
+**Location:** Nagareyama City, Chiba Prefecture (流山市)
+**Service Area:** East Katsushika area including Nagareyama, Kashiwa, Matsudo, Noda, and Abiko cities
+**Business Model:** Design firm + construction company with designers as primary contact points
+**Philosophy:** Creating homes that "nurture family smiles and happiness" (家族の笑顔と幸せを育む家づくり)
+
+#### Key Features
+
+**Perfect Location Match:**
+- Based directly in Nagareyama (your target area)
+- Serves all target cities: Kashiwa, Matsudo, Noda, Abiko
+- Deep local market expertise and understanding
+- Ideal for clients building in the area
+
+**Cost-Effective Business Model:**
+- Minimal advertising expenses passed as savings to clients
+- Direct designer contact reduces intermediary costs
+- 工務店 pricing (typically 70% of major house maker costs)
+- Cost reduction without quality compromise
+
+**Design-Led Approach:**
+- First-class architects as primary contact points
+- Personalized, tailored solutions for each client
+- Custom home design and construction
+- Full architectural and interior design services
+
+**Six Design Styles:**
+
+1. **Natural Style (自然派)** - Solid wood floors and natural materials emphasis
+2. **Simple Single-Story (シンプル平屋)** - "Living rooted to the ground comfortably," strong outdoor connection
+3. **Housework-Friendly (家事ラク)** - Layout prioritizing housework efficiency and workflow
+4. **Nordic Style (北欧スタイル)** - Cafe-like atmosphere with Scandinavian influences
+5. **Creative Style (クリエイティブ)** - Award-winning design and architectural innovation
+6. **Hobby Style (趣味)** - Specialized spaces for pursuing hobbies and art
+
+**Natural Materials Focus:**
+- Wood construction specialty (earthquake resistance, durability, humidity regulation)
+- Renewable materials requiring minimal energy processing
+- Avoids harmful chemical treatments
+- Natural pest prevention (e.g., Hinoki cedar for natural resistance)
+- Traditional open construction method
+
+**Educational & Service Approach:**
+- Experiential events including home tours and seminars
+- Land search assistance with flexibility
+- Full consultation throughout building process
+- Regular completed house tours for prospective clients
+
+#### Pricing
+
+**Estimated Range:** ¥500k-700k/tsubo (mid-range positioning)
+**Market Context:** Typically 70% of major house maker costs
+**Position:** Cost-effective local builder with architectural design quality
+
+**Note:** Specific pricing requires direct inquiry based on customization level and project scope.
+
+#### Alignment with Your Requirements
+
+**Tenets Match:**
+
+- ✅✅ **Natural Light:** EXCELLENT (9/10) - Single-story design philosophy emphasizes natural light, "views from every room" approach, strategic window placement optimization
+- ✅✅ **Garden Space:** EXCELLENT (9/10) - Strong philosophy of connection to land and outdoor spaces, indoor-outdoor living integration, example projects with large gardens
+- ✅✅ **Environmental:** VERY GOOD (8/10) - Natural materials focus (wood, cedar, natural finishes), sustainable practices, solar power integration, renewable materials, minimal chemicals
+- ✅ **Energy Efficient:** GOOD (7/10) - Natural insulation through wood construction, solar power systems available, passive design through natural materials, self-sufficiency features
+
+**Requirements Compatibility:**
+
+- ✅ **Garden Space:** Core specialty and philosophy
+- ✅ **Large Bath:** Custom design allows full customization
+- ✅ **3-4 LDK:** Standard offering for custom homes
+- ✅ **Solar:** Demonstrated in example projects (solar + well water self-sufficiency example)
+- ❓ **Ground Source Heat Pump:** Would need verification (not mentioned but custom approach suggests possible)
+- ✅ **Additional Ground Floor Room:** Single-story expertise ideal for this requirement
+- ✅ **Internal Courtyard (坪庭):** Natural materials and design philosophy supports
+- ✅ **Skylights:** Design flexibility and natural light focus supports
+- ✅ **Pantry:** Custom design accommodates all functional requirements
+
+#### Pros & Cons
+
+**Pros:**
+- Perfect location (based in Nagareyama = your target area)
+- Cost-effective (local builder pricing with reduced overhead)
+- Natural integration philosophy (garden/natural light alignment)
+- Full custom design capability (first-class architects)
+- Local expertise (climate, regulations, market conditions)
+- Environmental focus (natural materials, sustainable practices)
+- Direct designer communication (reduces miscommunication)
+- Six design style options (flexibility for different preferences)
+- Educational approach (house tours, seminars, informed clients)
+- Land search assistance included
+- Proven track record with completed projects
+
+**Cons:**
+- Limited online presence (fewer detailed reviews or case studies)
+- Smaller scale (less brand recognition vs. major house makers)
+- Unknown specific pricing (requires direct inquiry for budget examples)
+- Technology integration (may be less advanced in smart home/high-tech systems vs. Yamato Juken)
+- Unknown warranty/support details (long-term support coverage unclear)
+- Unknown energy performance specs (no UA/C values published vs. Nishina/Yamato)
+- Portfolio visibility limited (need direct contact for detailed examples)
+
+#### Best For
+
+- **Perfect location priority** - Based in Nagareyama, serves all target cities
+- **Natural materials and garden integration** - Core philosophy alignment
+- **Cost-effective quality** - Local builder pricing with architect design
+- **Custom design process** - Want personalized, tailored solutions
+- **Environmental consciousness** - Natural materials and sustainability valued
+- **Designer-led collaboration** - Prefer architect as primary contact
+- **Educational approach** - Want to learn and be informed throughout process
+
+#### Notable Example Project
+
+**Single-Story House (平屋) on Large Property:**
+- 200 tsubo lot (~660㎡) with large garden/field
+- Natural cedar (秋田杉) in entrance
+- Wooden ceiling panels and countertops throughout
+- Solar power system + well water for self-sufficiency
+- Wood-burning stove
+- Views of sky, garden, landscape from every room
+- Open spaces for children to play freely
+- Emphasis on "rootedness" to land
+- Indoor-outdoor living connection
+
+#### Contact Information
+
+**Website:** https://www.clenoie.com/
+**Location:** Nagareyama City, Chiba Prefecture
+
+**Key Questions to Ask:**
+- Ground source heat pump installation experience?
+- Specific pricing examples for 3-4 LDK with your requirements?
+- Timeline from design to completion for custom projects?
+- Energy efficiency certifications and performance standards (UA/C values)?
+- Warranty coverage and after-service support?
+- Internal courtyard/坪庭 design experience and examples?
+
+---
+
 ## GOOD LOCAL BUILDERS
 
-### 9. 小川工務店 (Ogawa Koumuten)
+### 10. 小川工務店 (Ogawa Koumuten)
 
 [🔗 Website](https://www.ogawa-bco.co.jp/)
 
@@ -825,7 +974,7 @@ Comprehensive evaluation of smaller and mid-tier house builders (工務店 and r
 
 ---
 
-### 10. 広島建設 / セナリオハウス (Hirosima Kensetsu / Scenario House)
+### 11. 広島建設 / セナリオハウス (Hirosima Kensetsu / Scenario House)
 
 [🔗 Website](https://www.hirosima.co.jp/house/)
 
@@ -864,7 +1013,7 @@ Comprehensive evaluation of smaller and mid-tier house builders (工務店 and r
 
 ---
 
-### 11. R+house (Regional Network)
+### 12. R+house (Regional Network)
 
 [🔗 Website](https://www.r-plus-house.com/)
 
@@ -1132,6 +1281,7 @@ All three offer strong value propositions well-suited to your ¥25-35M budget ra
 - [ヤマト住建の坪単価とみんなの口コミ - みんなの工務店リサーチ](https://www.varesearch.com/ibaraki/4371/)
 - [ヤマト住建の総額坪単価は90万円〜 - おうちキャンバス](https://ouchicanvas.com/column/housemaker/yamatojuken-matome.html)
 - [ヤマト住建の坪単価・評判 2025年最新版 - HOME4U](https://house.home4u.jp/contents/maker-55-17578)
+- [CLEHOME 公式サイト](https://www.clenoie.com/)
 - [木ごこち工務店 公式サイト](https://kigokochi.co.jp/)
 - [太陽ハウス 公式サイト](https://www.taiyo-house.co.jp/custom_home/)
 - [太陽ハウス SUUMO 掲載](https://suumo.jp/chumon/koumuten/rn_taiyohouse/)
